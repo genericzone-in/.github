@@ -1,5 +1,3 @@
-Here is a modified and more attractive version of your "About Us" section for a GitHub README.md file:
-
 ---
 
 ## About Us 👋
